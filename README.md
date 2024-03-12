@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello there! I'm Rup, a passionate software developer who loves coding, problem-solving, and learning about new technologies. Outside of coding, you'll often find me exploring the outdoors and experimenting with cooking.
+Hello there! I'm Rup
 
 ## GitHub Stats
 
