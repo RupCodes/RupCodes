@@ -1,16 +1,33 @@
-### Hi there 👋
+# Welcome to Rup's GitHub Profile!
+![Profile View Counter](https://komarev.com/ghpvc/?username=rupcodes&style=flat-square)
 
-<!--
-**RupCodes/RupCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello there! I'm Rup, a passionate software developer who loves coding, problem-solving, and learning about new technologies. Outside of coding, you'll often find me exploring the outdoors and experimenting with cooking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupcodes&show_icons=true&theme=tokyonight&border_color=6fa4fb)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupcodes&theme=tokyonight&border_color=6fa4fb)
+
+## Connect with Me
+
+Let's connect and collaborate:
+
+- Email: rup@rupcodes.com
+
+Feel free to reach out if you're interested in working together or just want to chat!
+
+## Badges
+
+Achievements:
+
+<p align="left">
+  <a href="https://discord.com/"><img src="https://github.com/RupCodes/RupCodes/blob/main/assets/Active%20Developer%20Badge.png" alt="Verified Bot Developer" height="40"></a>
+  <a href="https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge"><img src="https://github.com/RupCodes/RupCodes/blob/main/assets/Verified%20Developer%20Badge.png" alt="Active Developer" height="40"></a>
+</p>
+
+---
