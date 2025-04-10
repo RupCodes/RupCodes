@@ -20,14 +20,4 @@ Let's connect and collaborate:
 - Email: rup@rupcodes.com
 
 Feel free to reach out if you're interested in working together or just want to chat!
-
-## Badges
-
-Achievements:
-
-<p align="left">
-  <a href="https://discord.com/"><img src="https://github.com/RupCodes/RupCodes/blob/main/assets/Verified%20Developer%20Badge.png" alt="Verified Bot Developer" height="40"></a>
-  <a href="https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge"><img src="https://github.com/RupCodes/RupCodes/blob/main/assets/Active%20Developer%20Badge.png" alt="Active Developer" height="40"></a>
-</p>
-
 ---
